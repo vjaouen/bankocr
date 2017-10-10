@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- *
+ * Unit test for the Dictionary enum.
  */
 public class DictionaryTest {
 
